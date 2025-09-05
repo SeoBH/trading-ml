@@ -1,0 +1,4 @@
+{
+  "model_reg": "models/lgbm_retH_B.pkl",
+  "model_cls": "models/lgbm_cls_B.pkl"
+}

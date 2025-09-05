@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+
+# Environment variables
+.env
+
+# Large data files
+data/*.csv
+data/*.parquet
+data/binance/
+
+# Log files
+logs/
+ab_score.txt
+
+# Backtest results
+backtest/
+
+# Trained model files
+models/*.pkl
+
+# IDE settings
+.vscode/
+.idea/
